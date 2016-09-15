@@ -32,6 +32,9 @@
 									<listOptionValue builtIn="false" value="&quot;C:\MinGW\include\c++\3.2.3\mingw32&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\MinGW\lib\gcc-lib\mingw32\3.2.3\include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;U:\Data\tool_lib\libxl-3.6.5.0\include_cpp&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;U:\Data\tool_lib\libxl-3.6.5.0\lib&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;U:\Data\tool_lib\libxl-3.6.5.0\lib64&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;U:\Data\tool_lib\libxl-3.6.5.0\stdcall&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1637632357" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
