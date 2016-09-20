@@ -24,7 +24,7 @@ def connect_to_jira():
     MT_jira = jira.project('MT')
     print 'MT project: ', MT_jira 
 
-    print "Jira testing end"
+    print "Jira testing end test"
 
 def main():
     print 'Calling main function: \n'
