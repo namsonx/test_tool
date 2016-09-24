@@ -17,7 +17,7 @@ def connect_to_jira():
     #           'server': 'https://namsonx.atlassian.net'
     #}
     
-    jira = JIRA(options, basic_auth= ('mas2hc', '***********'))
+    jira = JIRA(options, basic_auth= ('mas2hc', '**********'))
     #jira = JIRA(options, basic_auth = ('namsonx','Test@123456'))
     projects = jira.projects()
     print 'Print project:', projects

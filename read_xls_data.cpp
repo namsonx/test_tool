@@ -7,18 +7,17 @@
 
 #include <iostream>
 #include <string>
-#include "libxl.h"
+//#include "libxl.h"
 #include "read_xls_data.h"
 
-using namespace libxl;
+//using namespace libxl;
 
 std::string read_data(std::string excel_file){
 	std::string test_data;
-	Book* book = xlCreateBook();
-	if(book->load(L"input.xls"))
-	{
-
-	}
+//	Book* book = xlCreateBook();
+//	if(book->load(L"input.xls"))
+//	{
+//	}
 	return test_data;
 }
 
